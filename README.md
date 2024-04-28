@@ -21,8 +21,6 @@ If you use the code, please cite the following paper:
   title     = {{QCore: Data-Efficient, On-Device Continual Calibration for Quantized Models}},
   journal   = {{PVLDB}},
   volume    = {17},
-  number    = {},
-  pages     = {},
   year      = {2024}
 }
 </pre> 
